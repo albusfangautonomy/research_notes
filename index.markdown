@@ -1,6 +1,6 @@
 ---
-layout: page
-title: "Research Notes"
+layout: default
+title: Research Notes
 ---
 
 # Research Notes
